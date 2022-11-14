@@ -16,7 +16,7 @@ public class App {
         //sayHello(5);
         int result = findFact(5);
         System.out.println("5! is " + result);
-        System.out.println("Main ended...");
+        System.out.println("Main endedXXX...");
     }  
 
     public static int findFact(int n){        
